@@ -4,8 +4,49 @@
     border: 0;
 }
 
+html{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
 /* Navbar */
 
-.logo{
-    width: 20px;
+#logo{
+    width: 5%;
+}
+
+.viajes{
+    color: #FFFFFF;
+}
+
+.navlink{
+    color: #FFFFFF;
+    text-decoration: none;
+    
+}
+
+.fotocarousel{
+    height: 700px;
+}
+
+/* QUIENES SOMOS */
+
+.containercolor{
+    background-color: #000000;
+}
+
+.titulo{
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.texto{
+    font-weight: 100;
+}
+
+/* DESTACADOS */
+
+.card2{
+    height: 180px;
 }
