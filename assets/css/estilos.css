@@ -50,3 +50,21 @@ html{
 .card2{
     height: 180px;
 }
+
+/* CONTACTO */
+
+.inputespacio{
+    width: 70rem;
+    border-radius: 3px;
+    
+}
+
+.inputespacio2{
+    height: 10rem;
+    width: 70rem;
+    border-radius: 3px;
+}
+
+label{
+    font-weight: 100;
+}
