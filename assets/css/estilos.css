@@ -68,3 +68,15 @@ html{
 label{
     font-weight: 100;
 }
+
+/* FOOTER */
+
+
+i{
+    font-size: 1.2rem;
+}
+
+.footerviajes{
+    font-weight: 100;
+    font-size: 1.3rem;
+}
