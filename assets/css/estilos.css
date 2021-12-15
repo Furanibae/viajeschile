@@ -36,7 +36,7 @@ html{
 }
 
 .fotocarousel{
-    height: 800px;
+    height: 950px;
 }
 
 /* QUIENES SOMOS */
@@ -63,14 +63,14 @@ html{
 /* CONTACTO */
 
 .inputespacio{
-    width: 70rem;
+    width: 100%;
     border-radius: 3px;
     
 }
 
 .inputespacio2{
     height: 10rem;
-    width: 70rem;
+    width: 100%;
     border-radius: 3px;
 }
 
