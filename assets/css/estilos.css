@@ -12,6 +12,17 @@ html{
 
 /* Navbar */
 
+#navbar1{
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    opacity: 1;
+    border-bottom: 1px solid rgba(255, 254, 254, 0.192)
+
+}
+
+
+
 #logo{
     width: 5%;
 }
@@ -80,3 +91,9 @@ i{
     font-weight: 100;
     font-size: 1.3rem;
 }
+
+a:hover {   
+    opacity: 0.6;
+    color: white !important;
+    
+  }
